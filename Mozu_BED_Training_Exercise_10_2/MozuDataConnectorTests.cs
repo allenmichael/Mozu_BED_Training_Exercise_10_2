@@ -5,7 +5,7 @@ using Autofac;
 using Mozu.Api.ToolKit.Config;
 using System.Collections.Generic;
 
-namespace Mozu_BED_Training_Exercise_9_2
+namespace Mozu_BED_Training_Exercise_10_2
 {
     [TestClass]
     public class MozuDataConnectorTests
