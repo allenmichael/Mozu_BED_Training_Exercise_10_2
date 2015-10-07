@@ -86,6 +86,7 @@ namespace Mozu_BED_Training_Exercise_10_2
             {
                 AttributeDetail = attrMonogram,
                 AttributeFQN = attrMonogram.AttributeFQN,
+                
             };
 
             //Test if the Extra already exists
